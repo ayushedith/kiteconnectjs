@@ -17,3 +17,4 @@ module.exports =  {
       "tsdoc/syntax": "warn"
     }
   };
+  // "tsdoc/syntax": "warn"
